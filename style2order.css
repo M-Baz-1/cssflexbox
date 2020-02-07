@@ -24,12 +24,12 @@
 
 .container{
     display: flex;
-    min-height: 100vh;
-    flex-wrap: wrap;
-    /* flex-wrap: nowrap;
-    flex-wrap: wrap-reverse; */
 }
 
-.box{
-    width: 33.333333%;
+.box4{
+    order: 1;
+}
+
+.box7 {
+    order: 2;
 }
